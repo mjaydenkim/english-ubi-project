@@ -6,7 +6,7 @@ module.exports = {
     description: `This is a project done in English on Universal Basic Income.`,
     hero: {
       heading: `Is a Universal Basic Income of $1000 per month a good way to solve the problem of job takeover by automation?`,
-      maxWidth: 652,
+      maxWidth: 800,
     },
     social: [
       {
