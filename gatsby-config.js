@@ -1,11 +1,11 @@
 module.exports = {
   siteMetadata: {
-    title: `Novela by Narative`,
-    name: `Narative`,
-    siteUrl: `https://novela.narative.co`,
-    description: `This is my description that will be used in the meta tags and important for search results`,
+    title: `English UBI Position Project`,
+    name: `Matthew Kim`,
+    siteUrl: `https://positionproject.netlify.com`,
+    description: `This is a project done in English on Universal Basic Income.`,
     hero: {
-      heading: `Welcome to Novela, the simplest way to start publishing with Gatsby.`,
+      heading: `Is a Universal Basic Income of $1000 per month a good way to solve the problem of job takeover by automation?`,
       maxWidth: 652,
     },
     social: [
@@ -48,8 +48,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Novela by Narative`,
-        short_name: `Novela`,
+        name: `English UBI Position Project`,
+        short_name: `Position Project`,
         start_url: `/`,
         background_color: `#fff`,
         theme_color: `#fff`,
